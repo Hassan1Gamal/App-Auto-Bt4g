@@ -1,0 +1,2 @@
+rootProject.name = "AutoBt4g"
+include ':app'
